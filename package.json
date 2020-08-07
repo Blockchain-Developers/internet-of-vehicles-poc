@@ -1,5 +1,5 @@
 {
-  "name": "internet-of-car-poc",
+  "name": "internet-of-vehicles-poc",
   "version": "0.0.1",
   "description": "",
   "main": "dist/server.js",
